@@ -9,7 +9,7 @@ gremlinpython==3.4.10
 Jinja2==2.11.3
 pytest==6.2.2
 requests==2.25.1
-selenium==3.141.0
+selenium==4.15.1
 tqdm==4.59.0
 troposphere==2.7.0
 Unidecode==1.2.0
