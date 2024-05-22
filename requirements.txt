@@ -8,7 +8,7 @@ future==0.18.2
 gremlinpython==3.4.10
 Jinja2==2.11.3
 pytest==6.2.2
-requests==2.25.1
+requests==2.32.0
 selenium==3.141.0
 tqdm==4.59.0
 troposphere==2.7.0
